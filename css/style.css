@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-color: blue;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -40,23 +40,23 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Courier New', Sans-serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
 
 img {
-  max-width: 100%;
+  max-width: 80%;
   width: 100%;
   height: auto;
 }
 
 p {
-  font-size: 1em;
+  font-size: 1.2em;
 }
 
 a {
-  color: black;
+  color: green;
   text-decoration: none;
 }
 
